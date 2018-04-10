@@ -28,6 +28,7 @@ dependencies {
 }
 jar {
  	manifest {
- 		attributes 'Main-Class': 'HelloWorld'
+ 		attributes 'Main-Class': 'com.sample.HelloWorld'
  	}
 }
+
